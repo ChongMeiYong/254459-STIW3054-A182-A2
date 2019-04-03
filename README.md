@@ -4,7 +4,8 @@ Chong Mei Yong 254459
 
 #### ```Introduction```
 Develop a small system using MAVEN and Java programming language. The system should be able to:
-1. Analyze the file and generate the following output using FIVE (5) threads:
+1. Analyze the file and generate the following output using FIVE (5) threads: 
+
 Thread-1: Calculate the total number of courses.
 Thread-2: Calculate the total number of days.
 Thread-3: List of courses from SOC.
