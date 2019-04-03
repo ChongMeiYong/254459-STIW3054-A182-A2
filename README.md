@@ -1,4 +1,17 @@
 # 254459-STIW3054-A182-A2
+#### ```Student Info```
+Chong Mei Yong 254459
+
+#### ```Introduction```
+Develop a small system using MAVEN and Java programming language. The system should be able to:
+1. Analyze the file and generate the following output using FIVE (5) threads:
+Thread-1: Calculate the total number of courses.
+Thread-2: Calculate the total number of days.
+Thread-3: List of courses from SOC.
+Thread-4: Calculate the number of courses from SOC
+Thread-5: Display the information of STIW3054 (Bil, Code, Course, date and time).
+2. The result of Thread-3 MUST be displayed after completing Thread-4.
+3. Use TWO (2) seconds time interval between each output.
 
 ### ```Youtube Link ：```https://youtu.be/PeRpa3gOE9c
 
