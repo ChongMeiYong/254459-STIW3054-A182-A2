@@ -1,6 +1,6 @@
 # 254459-STIW3054-A182-A2
 
-### ```Youtube Link ：```https://www.youtube.com/watch?v=hrNbg0cEYko
+### ```Youtube Link ：```https://youtu.be/PeRpa3gOE9c
 
 ### ```Class Diagram: ```
 ![](https://github.com/ChongMeiYong/254459-STIW3054-A182-A2/blob/master/Assignment2.png)
